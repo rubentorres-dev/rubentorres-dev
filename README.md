@@ -3,6 +3,10 @@
 **Estudiante de Ingeniería de Sistemas · Desarrollador Full-Stack**<br>
 Barranquilla, Colombia · Disponible para trabajo freelance y remoto en Latinoamérica y España
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-rubentorres--dev.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rubentorres-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubentorres-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubentorres.devs@gmail.com)
+
 > Desarrollo aplicaciones web, de escritorio, móviles e IoT con bases de datos, APIs, mensajería e infraestructura en la nube. Actualmente construyo un **portafolio de 25 proyectos** en 6 rutas de lenguajes: desde aplicaciones MVC hasta microservicios orientados a eventos.
 
 ---
@@ -11,6 +15,8 @@ Barranquilla, Colombia · Disponible para trabajo freelance y remoto en Latinoam
 
 - Estudiante de Ingeniería de Sistemas y Computación en la **Corporación Universitaria Latinoamericana (CUL)**.
 - **Monitor académico de programación**: acompaño a estudiantes en POO, estructuras de datos, bases de datos y frontend.
+- **Auxiliar de programación – Virtualidad** en la CUL: administro la plataforma virtual, creo cursos y contenido digital y doy soporte a docentes.
+- Automaticé el registro de tutorías con **n8n** y Google Sheets.
 - Todos mis proyectos siguen **MVC** e incluyen requisitos **IEEE 29148**, pruebas automatizadas, manual de usuario y manual del programador.
 
 ---
@@ -146,7 +152,7 @@ Barranquilla, Colombia · Disponible para trabajo freelance y remoto en Latinoam
 
 | # | Proyecto | Nivel | Tecnologías | Estado |
 |---|---|---|---|---|
-| 0 | Portafolio personal | — | React · Express · Tailwind · Vercel | Planeado |
+| 0 | [Portafolio personal](https://github.com/rubentorres-dev/portafolio) · [ver en vivo](https://rubentorres-dev.vercel.app) | — | React · Vite · Tailwind · Express · PostgreSQL · Docker · GitHub Actions · Vercel · Render | **Terminado** |
 | 1 | [SGIS: inventario y ventas](https://github.com/rubentorres-dev/sgis-app) | 1 | Java · JavaFX · MySQL | **Terminado** |
 | 2 | SGIS web | 2 | Spring Boot · Thymeleaf · MySQL · AWS | Planeado |
 | 3 | Pedidos en línea (microservicios) | 3 | Spring Boot · Angular · PostgreSQL · Redis · Kafka · RabbitMQ · Keycloak · Wompi · AWS · Terraform | Planeado |
@@ -178,6 +184,13 @@ Barranquilla, Colombia · Disponible para trabajo freelance y remoto en Latinoam
 
 ### Contacto
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rt633659@gmail.com)
-<!-- LinkedIn: agregar cuando esté listo -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME) -->
+¿Tienes un proyecto o una vacante? Escríbeme por cualquiera de estos medios.
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rubentorres-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubentorres-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubentorres.devs@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573245374597)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rubentorres_DEV)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubentorresdev)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rubentorres.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61595662231133)
