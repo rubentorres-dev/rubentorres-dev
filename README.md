@@ -6,6 +6,11 @@ Barranquilla, Colombia · Disponible para trabajo freelance y remoto en Latinoam
 [![Portafolio](https://img.shields.io/badge/Portafolio-rubentorres--dev.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rubentorres-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubentorres-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubentorres.devs@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573245374597)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rubentorres_DEV)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubentorresdev)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rubentorres.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61595662231133)
 
 > Desarrollo aplicaciones web, de escritorio, móviles e IoT con bases de datos, APIs, mensajería e infraestructura en la nube. Actualmente construyo un **portafolio de 25 proyectos** en 6 rutas de lenguajes: desde aplicaciones MVC hasta microservicios orientados a eventos.
 
